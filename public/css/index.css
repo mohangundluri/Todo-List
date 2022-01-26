@@ -1,0 +1,14 @@
+body{
+    background-image: -webkit-linear-gradient(65deg,red, green);
+}
+
+ul{
+    background-color: bisque;
+    background-image: linear-gradient(120deg, red , blue);
+}
+li{
+    list-style-type: none;
+    color:green;
+    font-variant: small-caps;
+    font-weight: 900;
+}
